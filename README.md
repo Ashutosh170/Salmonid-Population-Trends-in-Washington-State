@@ -1,4 +1,4 @@
-# Salmonid-Population-Trends-in-Washington-State
+#Salmonid-Population-Trends-in-Washington-State
 Salmonids are a family of fish that include salmon, trout, and char. These species are native to Washington State and are vital both ecologically and culturally—especially to Indigenous tribes, commercial fisheries, and local ecosystems.
 
 Over the past few decades, salmonid populations in Washington have shown significant declines due to several factors, such as:
