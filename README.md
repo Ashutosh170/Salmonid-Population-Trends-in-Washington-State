@@ -25,5 +25,5 @@ Enforcing fishing regulations
 
 Collaborative conservation efforts with tribal governments
 
-Understanding these trends helps guide policies to protect these keystone species and restore balance to Washington's aquatic ecosystems.
+Understanding these trends helps guide policies to protect these keystone species and restore balance to Washington's aquatic ecosystems.  
 
